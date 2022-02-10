@@ -5,7 +5,7 @@ weight = input("enter your weight in kg: ") # This asks you for your weight
 convertHeight = float(height) # This converts height from string to a float nummber.
 convertWeight = int(weight) # This converts height from string to a integer nummber.
 calculation = convertWeight / convertHeight ** 2 # This divides the weight with height², because the BMI formula = Weight(KG) / Height(m²)
-round_nummber = round(calculation, 2) # This line of code rounds the nummber to 2 numbers after commma.
+round_nummber = round(calculation, 2) # This line of code rounds the number to 2 numbers after commma.
 
 print(round_nummber)
 
