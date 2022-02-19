@@ -9,4 +9,4 @@ round_nummber = round(calculation, 2) # This line of code rounds the number to 2
 
 print(round_nummber)
 
-# Overall this is not the best way to do it but i'am still learning Python and it is my second programming languange that i'am learning now.
+# Overall im sure this is not the best way to do it but i'am still learning Python and it is my second programming languange that i'am learning now.
